@@ -98,3 +98,14 @@ footer {
   text-decoration: underline;
   color: #fff;
 }
+
+/* main styles */
+main {
+  text-align: center;
+  padding: 20px;
+}
+
+main img {
+  max-width: 300px;
+  border-radius: 50%;
+}
